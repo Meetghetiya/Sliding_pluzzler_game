@@ -70,7 +70,3 @@ Welcome to Sliding Pluzzle, an addictive puzzle game that will test your spatial
 https://github.com/Meetghetiya/Sliding_pluzzler_game/assets/89141817/283ae6b3-5d4b-42ed-8a7e-12a30c2612f2
 
 
-<video src="https://github.com/Meetghetiya/Sliding_pluzzler_game/blob/master/Sliding_pluzzle/assets/projects/sliding_game_recording.webm" width="640" height="360" controls>
-  Your browser does not support the video tag.
-</video>
-
