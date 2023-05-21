@@ -46,8 +46,6 @@ Welcome to Sliding Pluzzle, an addictive puzzle game that will test your spatial
 
 
 ## Screenshots
-![Screenshot1](https://github.com/Meetghetiya/Sliding_pluzzler_game/assets/89141817/9aec09db-7b77-4451-8665-a1878f9ff7ea)
-
 
 <div style="display: flex;">
 <img src="https://github.com/Meetghetiya/Sliding_pluzzler_game/blob/master/Sliding_pluzzle/assets/projects/Screenshot1.png?raw=true"  style="margin-right: 100px;" width=25% height=25%>
@@ -64,7 +62,13 @@ Welcome to Sliding Pluzzle, an addictive puzzle game that will test your spatial
 
 </div>  
 
-### Demo Video
+## Demo Video
+
+
+
+
+https://github.com/Meetghetiya/Sliding_pluzzler_game/assets/89141817/283ae6b3-5d4b-42ed-8a7e-12a30c2612f2
+
 
 <video src="https://github.com/Meetghetiya/Sliding_pluzzler_game/blob/master/Sliding_pluzzle/assets/projects/sliding_game_recording.webm" width="640" height="360" controls>
   Your browser does not support the video tag.
