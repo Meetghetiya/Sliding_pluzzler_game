@@ -62,3 +62,9 @@ Welcome to Sliding Pluzzle, an addictive puzzle game that will test your spatial
 
 </div>  
 
+### Demo Video
+
+<video src="https://example.com/demo.mp4" width="640" height="360" controls>
+  Your browser does not support the video tag.
+</video>
+
