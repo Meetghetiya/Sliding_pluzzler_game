@@ -56,9 +56,9 @@ Welcome to Sliding Pluzzle, an addictive puzzle game that will test your spatial
 
 <img src="https://github.com/Meetghetiya/Sliding_pluzzler_game/blob/master/Sliding_pluzzle/assets/projects/Screenshot4.png?raw=true" style="margin-right: 10px;" width=25% height=25%>
 
-<img src="https://github.com/Meetghetiya/Sliding_pluzzler_game/blob/master/Sliding_pluzzle/assets/projects/Screenshot5.png?raw=true" style="margin-right: 10px;"width=25% height=25%>
+<img src="https://github.com/Meetghetiya/Sliding_pluzzler_game/blob/master/Sliding_pluzzle/assets/projects/Screenshot5.png?raw=true" style="margin-right: 10px;" width=25% height=25%>
 
-<img src="https://github.com/Meetghetiya/Sliding_pluzzler_game/blob/master/Sliding_pluzzle/assets/projects/Screenshot6.png?raw=true" style="margin-right: 10px;"width=25% height=25%>
+<img src="https://github.com/Meetghetiya/Sliding_pluzzler_game/blob/master/Sliding_pluzzle/assets/projects/Screenshot6.png?raw=true" style="margin-right: 10px;" width=25% height=25%>
 
 </div>  
 
