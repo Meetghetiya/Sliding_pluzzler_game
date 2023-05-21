@@ -47,7 +47,7 @@ Welcome to Sliding Pluzzle, an addictive puzzle game that will test your spatial
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Meetghetiya/Sliding_pluzzler_game/blob/master/Sliding_pluzzle/assets/projects/Screenshot1.png?raw=true)
+![App Screenshot]()
 
 ![App Screenshot](https://github.com/Meetghetiya/Sliding_pluzzler_game/blob/master/Sliding_pluzzle/assets/projects/Screenshot2.png?raw=true)
 
